@@ -1,5 +1,5 @@
-# Cifar10-Classification-with-Keras
-Cifar10 Classification with Keras
-In this repo, I've trained cifar10 for a classification model build with Keras for 100 epochs and 32 batch size.
+# Cifar10 classification with Keras
+In this notebook, I've trained moded for classification of cifar10 data for 100 epochs with Keras
+## Results
 Total accuracy : 0.7895
-Total loss : 0.65609
+
